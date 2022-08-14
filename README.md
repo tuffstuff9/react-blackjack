@@ -10,11 +10,24 @@
 ## 📋 Overview
 This is a blackjack web app built with react. It supports user authentication. Your user balance persists throughout application states as it is stored in a database. 
 
+
+
+
 ## 💡 Screenshots
 <img src="https://user-images.githubusercontent.com/57072903/184539262-b50af33c-fe77-406e-9826-b77c89b5adc9.png" width="600px">
 <img src="https://user-images.githubusercontent.com/57072903/184539265-5d1b8edd-5edb-4db1-994e-95ae6ecf12f8.png" width="600px"> 
 <img src="https://user-images.githubusercontent.com/57072903/184539440-298d581f-64aa-42a5-8202-a24d31752b59.png" width="600px"> 
-<img src="https://user-images.githubusercontent.com/57072903/184539417-3d2785b3-a9bb-4943-bf11-a35bea1bb2f4.png" width="600px"> 
-<img src="https://user-images.githubusercontent.com/57072903/184539420-b05d1592-4356-438f-8807-6b4d6273e2b4.png" width="600px"> 
+<img src="https://user-images.githubusercontent.com/57072903/184543373-9d3f8af7-8534-4716-a941-52e71d4925bd.png" width="600px"> 
+<img src="https://user-images.githubusercontent.com/57072903/184543375-88cdb41c-56a2-4da3-bffa-4430a9efeb16.png" width="600px"> 
 <img src="https://user-images.githubusercontent.com/57072903/184539421-e880048b-ef23-4383-9dcc-02cce3366a70.png" width="600px"> 
+
+## ⚡️ Usage Guide
+Since this is a react app, you will have to install the dependencies for the frontend and backend separately, as well as run them individually, as you can see below.
+
+<img src="https://user-images.githubusercontent.com/57072903/184539771-6556dbbd-5b00-4185-99e7-014f9aa514b4.png" width="400px"> 
+
+
+## License
+
+MIT
 
