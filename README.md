@@ -10,3 +10,11 @@
 ## 📋 Overview
 This is a blackjack web app built with react. It supports user authentication. Your user balance persists throughout application states as it is stored in a database. 
 
+## 💡 Screenshots
+![1](https://user-images.githubusercontent.com/57072903/184539146-54e8a9ea-a19e-459e-85cf-f6e66469b5ba.svg)
+![2](https://user-images.githubusercontent.com/57072903/184539152-52ad6014-e10f-47b7-8fee-5532135b7e52.svg)
+![Untitled-3](https://user-images.githubusercontent.com/57072903/184539156-362b37c3-5efd-4a10-b3a0-f8c5f0895e79.svg)
+![4](https://user-images.githubusercontent.com/57072903/184539160-0a85f30e-f391-4996-9414-ed7318b0121e.svg)
+![5](https://user-images.githubusercontent.com/57072903/184539161-2e3b55d0-5d70-4927-b3e9-c1e5aae3f320.svg)
+![6](https://user-images.githubusercontent.com/57072903/184539163-794c07a5-83a2-47f3-a10e-e7753337060c.svg)
+
