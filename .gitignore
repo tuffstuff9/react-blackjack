@@ -1,0 +1,13 @@
+.vscode/*
+
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+node_modules/*
+node_modules
+client/node_modules
+client/node_modules/*
+

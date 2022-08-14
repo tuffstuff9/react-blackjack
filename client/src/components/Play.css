@@ -1,0 +1,110 @@
+.balance-area {
+  margin: 15px;
+  text-align: center;
+  padding-left: 120px;
+  display: block;
+  text-align: center;
+}
+
+.balance-area > h3 {
+  display: inline-block;
+  text-align: center;
+  font-weight: 400;
+}
+
+.deposit-button {
+  float: right;
+  margin-left: 5px;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: #66ff00;
+  border-width: 0px;
+  font-weight: 600;
+}
+
+.hit-button {
+  margin-right: 5px;
+  border-radius: 10px;
+  padding: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: rgb(5, 156, 5);
+  border-width: 0px;
+  font-weight: 600;
+}
+
+.stand-button {
+  margin-left: 5px;
+  border-radius: 10px;
+  padding: 20px;
+  padding-left: 23px;
+  padding-right: 23px;
+  background-color: rgb(169, 36, 36);
+  border-width: 0px;
+  font-weight: 600;
+}
+
+.signout-button {
+  float: right;
+  margin-right: 5px;
+  border-radius: 10px;
+  border-width: 0px;
+  padding: 10px;
+  background-color: #ff6863;
+  font-weight: 600;
+}
+
+.start-button {
+  align-items: center;
+  border-radius: 30px;
+  border-width: 0px;
+  padding: 20px;
+  padding-right: 30px;
+  padding-left: 30px;
+  background-color: rgb(30, 110, 238);
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.bet-area {
+  padding: 40px;
+  /* background-color: aqua; */
+  /* display: flex; */
+  /* align-items: center; */
+  /* justify-content: center; */
+  text-align: center;
+  /* width: 250px; */
+  /* height: 100px; */
+}
+
+.w-50 {
+  display: inline;
+  align-items: center;
+  /* justify-content: center; */
+  /* width: 50px; */
+  width: 200px !important;
+}
+
+.game-area {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.player-display {
+  margin-top: 50px;
+}
+
+.winner-display {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 40px;
+  width: 250px;
+  height: 100px;
+  background-color: #2c2d30;
+  border-style: solid;
+  border-radius: 10px;
+  border-width: 1px;
+  border-color: #2c2d30;
+}

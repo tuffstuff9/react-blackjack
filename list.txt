@@ -1,0 +1,18 @@
+autoplay feature
+ideal move feature - shows what to do next based off blackjack table
+
+nice table design
+nice card design
+
+network play feature where each game is broadcast and players can join.
+
+2x mongoose schemas - game history, account info, contains stats, money, etc.
+
+
+
+
+disable hit and stand button until response is returned
+fix stand api
+add card rendering
+deploy
+push to github

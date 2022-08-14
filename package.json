@@ -1,0 +1,28 @@
+{
+  "name": "blackjack-react-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "heroku-postbuild": "cd client && npm install && npm install --only=dev --no-shrinkwrap && npm run build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.0",
+    "connect-flash": "^0.1.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "mongoose": "^6.5.2",
+    "mongoose-url-slugs": "^1.0.2",
+    "passport": "^0.6.0",
+    "passport-local-mongoose": "^7.1.2",
+    "react-scripts": "^5.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
