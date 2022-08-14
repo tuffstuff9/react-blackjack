@@ -1,59 +1,12 @@
-# Blackjack
+<img src="https://user-images.githubusercontent.com/57072903/184537442-a5120f74-34b4-4b4f-9321-9df61eb6c438.svg#gh-dark-mode-only" width="600px"> 
+<img src="https://user-images.githubusercontent.com/57072903/184537425-e037635c-4750-49ba-85ec-75e51f316fcc.svg#gh-light-mode-only" width="600px">
 
-## Overview
+![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
+![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=)
+![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
+![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
+![Passport](https://img.shields.io/static/v1?style=for-the-badge&message=Passport&color=222222&logo=Passport&logoColor=34E27A&label=)
+![Heroku](https://img.shields.io/static/v1?style=for-the-badge&message=Heroku&color=430098&logo=Heroku&logoColor=FFFFFF&label=)
+## 📋 Overview
+This is a blackjack web app built with react. It supports user authentication. Your user balance persists throughout application states as it is stored in a database. 
 
-This will be a web app which allows users to login and play blackjack. Users will have a balance and can place bets of any chosen amount.
-
-If time permits, I will try to make this a network based game where multiple people can join the table and play with the same dealer.
-
-## Data Model
-
-The application will store the data in MongoDB Atlas
-
-Application will use:
-
-- User's name and info
-- User's bet amount
-- Storage of stats and money
-
-An Example Search:
-
-```javascript
-class Game(amount) {
-  this.amount = amount;
-}
-```
-
-## [Link to Commented First Draft Schema](db.js)
-
-## Wireframes
-
-/play - user will be able to play here
-
-/account - user can add money and see their stats here
-
-## Site map
-
-Sitemap image [here](/sitemap.png)
-
-## User Stories or Use Cases
-
-1. as non-registered user, I can register a new account with the site
-2. as a user, I can play games
-3. as a user, I can add money to my account
-
-## Research Topics
-
-(2 points) Heroku Deployment
-I am planning on deploying to heroku
-
-(Authentication with passport) 2 points
-Using passport, mongodb, and bcrypt for authentication.
-
-(4 point) React
-I am planning on using React as my frontend.
-
-## Annotations / References Used
-
-1. [nypd arrest map](https://www.youtube.com/watch?v=eO54xtfrfPk)
-2. [QGIS styles](https://tjukanov.org/qgis-styles)
